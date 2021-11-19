@@ -1,0 +1,15 @@
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\TransactionReplyMessage.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\TransactionRequestMessage.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\service\BankService.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dao\BankAccountDAO.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\client\BankRestClient.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\BankTransactionStatus.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\web\BankRestService.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\password\PasswordUtils.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dao\BankTransactionDAO.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\CreditCard.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\BankAccount.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\User.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\bank\model\dto\BankTransaction.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\user\model\dao\UserDAO.java
+D:\Trabalho2\jpaSpringMvcSimpleBank\model\src\main\java\org\solent\com504\oodd\user\model\dto\User.java

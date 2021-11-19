@@ -1,0 +1,15 @@
+org\solent\com504\oodd\bank\model\dto\CreditCard.class
+org\solent\com504\oodd\bank\model\dao\BankAccountDAO.class
+org\solent\com504\oodd\bank\model\dto\User.class
+org\solent\com504\oodd\bank\model\dto\TransactionReplyMessage.class
+org\solent\com504\oodd\user\model\dto\User.class
+org\solent\com504\oodd\bank\model\dto\BankTransaction.class
+org\solent\com504\oodd\bank\model\service\BankService.class
+org\solent\com504\oodd\bank\model\dto\BankTransactionStatus.class
+org\solent\com504\oodd\password\PasswordUtils.class
+org\solent\com504\oodd\user\model\dao\UserDAO.class
+org\solent\com504\oodd\bank\model\dto\TransactionRequestMessage.class
+org\solent\com504\oodd\bank\model\dto\BankAccount.class
+org\solent\com504\oodd\bank\model\client\BankRestClient.class
+org\solent\com504\oodd\bank\model\dao\BankTransactionDAO.class
+org\solent\com504\oodd\bank\model\web\BankRestService.class

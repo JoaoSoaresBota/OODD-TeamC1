@@ -1,0 +1,6 @@
+solent\ac\uk\ood\examples\cardcheck\CardCompany.class
+solent\ac\uk\ood\examples\cardcheck\CalculateLunnDigit.class
+solent\ac\uk\ood\examples\cardvalidator\impl\SupportedCardIssuerIdentificationNumbers.class
+solent\ac\uk\ood\examples\cardcheck\CardValidationResult.class
+solent\ac\uk\ood\examples\cardvalidator\impl\SupportedCardIssuerIdentificationNumbers$1.class
+solent\ac\uk\ood\examples\cardcheck\RegexCardValidator.class
